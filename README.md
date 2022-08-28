@@ -10,4 +10,5 @@ I have fun programming things like Minecraft clients, Minecrat plugins, and also
 
 
 
-![git1](https://user-images.githubusercontent.com/107078018/187055416-3a76f77c-c477-41d0-84d0-5f5cc29726eb.png)
+
+![Uploading Untitled-1.png…]()
